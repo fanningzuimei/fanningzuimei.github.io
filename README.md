@@ -1,1 +1,2 @@
-# fanningzuimei.github.io
+# 2048_master
+git from others
